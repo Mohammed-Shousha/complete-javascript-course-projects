@@ -1,6 +1,6 @@
 # Bankist-DOM
 
-## Overview
+## Description
 
 A landing page for a fictional bank called Bankist. It features many DOM manipulation techniques, including smooth scrolling, lazy loading, and intersection observer.
 
